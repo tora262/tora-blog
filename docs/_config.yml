@@ -54,6 +54,6 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-domain: tora.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://tora.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /tora.github.io/
+domain: tora262.github.io      # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://tora262.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /tora-blog/
